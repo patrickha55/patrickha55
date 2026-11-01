@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Tan Phat Ha
-- 👀 I’m interested in .Net
-- 🌱 I’m currently learning .Net
-- 📫 How to reach me :
-    Email: pattrickha@gmail.com
+Software engineer with 4+ years building and running backend services on AWS and .NET. Designed and shipped a serverless billing integration that runs at 99.99% success, and built a usage-tracking pipeline that records ~5 billion API events a month. AWS Certified Developer – Associate; also work in Python and React.
